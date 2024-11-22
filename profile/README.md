@@ -5,3 +5,7 @@ Other Love Lab open source software projects include:
 
 * https://github.com/tidyomics
 * https://github.com/nullranges/nullranges
+
+Other Love Lab repositories:
+
+* [plyxp](https://github.com/jtlandis/plyxp)
